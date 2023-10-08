@@ -26,8 +26,9 @@
 Данные о работе: название работы, фио, группа, выполненные задания.
  Цель работы.
  Задание 1.
- 
-- print("Hello World!")
+ ```py
+print("Hello World!")
+```
 ![image](https://github.com/VFlov/DA-in-GameDev-lab1/assets/129610413/51c94eef-e3f2-4394-861b-bdb72a6c114c)
 Код реализации выполнения задания. Визуализация результатов выполнения (если применимо).
 Задание 2.
@@ -60,3 +61,4 @@
 ## Powered by
 
 **BigDigital Team: Denisov | Fadeev | Panov**
+
