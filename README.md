@@ -29,10 +29,13 @@ print("Hello World!")
 Задание 2. Написать программу Hello World на C# с запуском на Unity. 
 Создаем скрипт
 ![image](https://github.com/VFlov/DA-in-GameDev-lab1/assets/129610413/ca9c9481-7437-4e87-b298-dcb2671c40bd)
+
 Открываем файл и дополняем функцией вывода в консоль
 ![image](https://github.com/VFlov/DA-in-GameDev-lab1/assets/129610413/37ab12b5-1456-4aad-b92d-fd9379a7aaa6)
+
 Создаем GameObject и вешаем на него наш скрипт
 ![image](https://github.com/VFlov/DA-in-GameDev-lab1/assets/129610413/8371bd44-a63b-4084-bbd9-f7298cddfa23)
+
 Запускаем проект юнити и видим вывод HelloWorld
 ![image](https://github.com/VFlov/DA-in-GameDev-lab1/assets/129610413/de825189-3e3e-4d16-9753-062992a3e7df)
 
